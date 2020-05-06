@@ -1,6 +1,6 @@
 ### Week 0
-[video](https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU)
-[source code] (https://scratch.mit.edu/studios/25128634/)
+[video](https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU)    
+[source code](https://scratch.mit.edu/studios/25128634/)
 
 #### Problem Set 0
 Download and install the latest version of Chrome, if you don’t have it already.
