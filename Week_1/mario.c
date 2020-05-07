@@ -16,7 +16,6 @@ int main(void)
         {
             // printing spaces.
             printf("%s", " ");
-
         }
         for (int k = 0; k < i + 1; k++)
         {
